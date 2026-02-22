@@ -1,2 +1,4 @@
-# Podklady-pro-vyuku-ICT
-Materiály, prezentace, aktivity, zadání projektů a metodické podklady pro ně
+Pedagogicke portfolio <br>
+Bakalarske Studium <br>
+Marek Salaj (D25919) <br>
+Obor: Informatika/Technika (Kombinovany)
