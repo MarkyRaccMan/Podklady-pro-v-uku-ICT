@@ -1,2 +1,2 @@
-# Podklady-pro-v-uku-ICT
+# Podklady-pro-vyuku-ICT
 Materiály, prezentace, aktivity, zadání projektů a metodické podklady pro ně
