@@ -1,2 +1,3 @@
-# Podklady-pro-v-uku-ICT
-Materiály, prezentace, aktivity, zadání projektů a metodické podklady pro ně
+Zkušenosti z praxe
+Co funguje/nefunguje
+Přístup a aplikace aktivit
